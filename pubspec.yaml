@@ -1,8 +1,11 @@
 name: navigation_bar
-description: A new Flutter project.
+description: A new flutter navigation_bar
 version: 0.0.1
-author:
-homepage:
+author: zhangruiyu <157418979@qq.com>
+homepage: https://github.com/zhangruiyu/flutter_navigation_bar
+
+environment:
+  sdk: ">=1.23.0 <2.3.0"
 
 dependencies:
   flutter:
